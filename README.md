@@ -28,7 +28,7 @@ Design rationale:
 | Robustness (±20% mass) | Stable | All pass | ✅ |
 
 ![Step Response](step-response.png)
-
+h(t) with ±20N saturation (nominal performance showing step response and disturbance recovery at t=4s)
 ## Tools Used
 - MATLAB (controller design, frequency analysis)
 - Simulink (closed-loop simulation with saturation and anti-windup)
